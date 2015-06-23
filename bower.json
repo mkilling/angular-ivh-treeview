@@ -1,6 +1,6 @@
 {
-  "name": "angular-ivh-treeview",
-  "version": "0.10.0",
+  "name": "angular-ivh-treeview-mkilling",
+  "version": "0.11.0",
   "authors": [
     "jtrussell"
   ],
@@ -24,7 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.2.18"
+    "angular": "~1.4.1"
   },
   "devDependencies": {
     "jquery": "~2.1.1",
